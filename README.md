@@ -54,6 +54,6 @@ These metrics provide insight into the computational effort required to solve pu
 Solves Easy → Evil puzzles
 Efficient constraint propagation
 Performance metrics included
-#  Author
+##  Author
 
 Muhammad Saad
